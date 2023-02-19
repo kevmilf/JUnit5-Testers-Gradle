@@ -1,10 +1,9 @@
 package calculator;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CalculatorTest {
+class CalculatorTest {
     private final Calculator calculator = new Calculator();
 
     @Test
