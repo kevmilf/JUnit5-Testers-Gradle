@@ -1,4 +1,4 @@
-package calculator;
+package services;
 
 public class WeirdStuff {
     public static String isItTheAnswerToUltimateQuestionOfLife(int n) {
